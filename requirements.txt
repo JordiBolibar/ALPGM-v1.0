@@ -9,4 +9,4 @@ GDAL==2.3.3
 Keras==2.2.4
 matplotlib_scalebar==0.5.1
 netCDF4==1.5.1.2
-scikit_learn==0.21.2
+scikit_learn==1.5.0
