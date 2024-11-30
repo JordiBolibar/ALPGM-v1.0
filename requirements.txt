@@ -6,7 +6,7 @@ numpy==1.22.0
 numba==0.35.0
 seaborn==0.8
 GDAL==2.3.3
-Keras==2.2.4
+Keras==2.13.1
 matplotlib_scalebar==0.5.1
 netCDF4==1.5.1.2
 scikit_learn==0.21.2
